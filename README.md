@@ -1,0 +1,2 @@
+# Chikungunya-Transmission-Dynamics-Incorporating-Media-Awareness-and-Optimal-Control
+A compartmental mathematical model was developed to examine the transmission dynamics of chikungunya, integrating media awareness and optimal control strategies. Both asymptomatic and symptomatic infectious categories, along with a media-induced awareness component, were incorporated to more precisely represent epidemiological dynamics.
